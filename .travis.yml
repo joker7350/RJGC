@@ -1,6 +1,6 @@
-  language: python
-  python:
-    - "3.6"
-    - "nightly"
-  script:
-    - pytest
+language: php
+php:
+  - '5.6'
+  - '7.1'
+  - hhvm # on Trusty only
+  - nightly
