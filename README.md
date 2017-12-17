@@ -1,4 +1,4 @@
 # RJGC
-git push origin master
+git push --all origin
 
 software project
